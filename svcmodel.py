@@ -7,7 +7,6 @@ Created on Wed Aug  2 15:49:06 2023
 
 
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 
 data = pd.read_table('Restaurant_Reviews.tsv')
